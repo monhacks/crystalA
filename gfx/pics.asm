@@ -714,10 +714,10 @@ UnownRBackpic:       INCBIN "gfx/pokemon/unown_r/back.2bpp.lz"
 
 SECTION "Pics 19", ROMX
 
-TaillowFrontpic:      INCBIN "gfx/pokemon/Taillow/front.animated.2bpp.lz"
-TaillowBackpic:       INCBIN "gfx/pokemon/Taillow/back.2bpp.lz"
-SwellowFrontpic:      INCBIN "gfx/pokemon/Swellow/front.animated.2bpp.lz"
-SwellowBackpic:       INCBIN "gfx/pokemon/Swellow/back.2bpp.lz"
+TaillowFrontpic:      INCBIN "gfx/pokemon/taillow/front.animated.2bpp.lz"
+TaillowBackpic:       INCBIN "gfx/pokemon/taillow/back.2bpp.lz"
+SwellowFrontpic:      INCBIN "gfx/pokemon/swellow/front.animated.2bpp.lz"
+SwellowBackpic:       INCBIN "gfx/pokemon/swellow/back.2bpp.lz"
 
 
 ; Sections "Pics 20" to "Pics 24" are not used for any graphics,
